@@ -1,6 +1,6 @@
 **Branch**- instruction sent to a computer tasking it with what to do
-**Clone**- making an exact copy of something
-**Commit**- making changes to data 
+**Clone**- making an exact copy of something (including hardware and software systems)
+**Commit**- making changes to data, and sending to repository 
 **Fetch**- the retrieval of data 
 **GIT**- version control system used for tracking changes in code
 **Github**- "a web-based platform that allows users to store, share, and collaborate on code and other content” (Github). 
@@ -8,7 +8,7 @@
 **Merge Conflict**- when the same line of file is modified in two different places 
 **Push**- adding new elements to an array’s end 
 **Pull**- requesting data or information from another source
-**Remote**- accessing a network from another location
+**Remote**- accessing a network from another location, allows users to access data from anywhere 
 **Repository**- digitized storage area that saves any changes made in code
 
 Sources: 
